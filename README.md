@@ -3,4 +3,4 @@ Ported from the Epic official document as the origin project files are stored in
 
 # VertexAnimSample
 
-UE5 SkeletalMesh animation into StaticMesh using Vertex Animation Texture.
+UE5 example: Bake SkeletalMesh animation into StaticMesh using Vertex Animation Texture.
