@@ -44,9 +44,9 @@ This's an UE5 project to demonstrate VAT: Bake bone (SkeletalMesh) animation int
 	Setup the parameters, and click Do All.  
 	![10](./img/10.png)
 
-A moment later, Vertex Animation Textures have been generated.  
-![11](./img/11.png)  
-![13](./img/13.png)
+	A moment later, Vertex Animation Textures have been generated.  
+	![11](./img/11.png)  
+	![13](./img/13.png)
 
 	And the materials has been tweaked automatically.  
 	![12](./img/12.png)  
