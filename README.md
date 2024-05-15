@@ -25,14 +25,14 @@ This's an UE5 project to demonstrate VAT: Bake bone (SkeletalMesh) animation int
 3. Then locate to the directory of plugin content: /AnimToTexture/Characters/Mannequin/Materials/BoneAnimation/  
 ![03](./img/03.png)
 
-Copy the these three nodes below.  
-![04](./img/04.png)
+	Copy the these three nodes below.  
+	![04](./img/04.png)
 
-Paste into your material:  
-![05](./img/05.png)
+	Paste into your material:  
+	![05](./img/05.png)
 
-Final result:  
-![06](./img/06.png)
+	Final result:  
+	![06](./img/06.png)
 
 4. Change the material's reference of SkeletalMesh asset.  
 ![07](./img/07.png)  
@@ -41,28 +41,29 @@ Final result:
 5. Right click EUW_VAT_Utils to run the widget.  
 ![09](./img/09.png)
 
-Setup the parameters, and click Do All.  
-![10](./img/10.png)
+	Setup the parameters, and click Do All.  
+	![10](./img/10.png)
 
 A moment later, Vertex Animation Textures have been generated.  
 ![11](./img/11.png)  
 ![13](./img/13.png)
 
-And the materials has been tweaked automatically.  
-![12](./img/12.png)  
+	And the materials has been tweaked automatically.  
+	![12](./img/12.png)  
 
-Final effect:  
-![14](./img/14.gif)
+	Final effect:  
+	![14](./img/14.gif)
 
 6. Because we baked multiple animation assets at once before, so we can switch animation by Material Parameter.  
 ![15](./img/15.png)  
 ![16](./img/16.gif)
 
-![17](./img/17.png)  
-![18](./img/18.gif)
+	![17](./img/17.png)  
+	![18](./img/18.gif)
 
-How to get the animation frame length of an animation? check the `Number of Sampled Keys` of AnimSequence.  
-![18](./img/19.png)
+	How to get the animation frame length of an animation?  
+	check the `Number of Sampled Keys` of AnimSequence.  
+	![18](./img/19.png)
 
 # References
 
