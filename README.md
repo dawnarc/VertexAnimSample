@@ -64,7 +64,3 @@ This's an UE5 project to demonstrate VAT: Bake bone (SkeletalMesh) animation int
 	How to get the animation frame length of an animation?  
 	check the `Number of Sampled Keys` of AnimSequence.  
 	![18](./img/19.png)
-
-# References
-
-AnimToTextureHelpers (EUW_VAT_Utils)  
